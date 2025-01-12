@@ -1,55 +1,41 @@
 import styles from '../styles/ContactCode.module.css';
 
 const contactItems = [
-  {
-    social: 'website',
-    link: 'nitinranganath.me',
-    href: 'https://nitinranganath.me',
-  },
+
   {
     social: 'email',
-    link: 'nitinranganath@gmail.com',
-    href: 'mailto:nitinranganath@gmail.com',
+    link: 'lbutschowitz@gmail.com',
+    href: 'mailto:lbutschowitz@gmail.com',
   },
   {
     social: 'github',
-    link: 'itsnitinr',
-    href: 'https://github.com/itsnitinr',
+    link: 'mishiningo',
+    href: 'https://github.com/mishiningo',
   },
   {
     social: 'linkedin',
-    link: 'nitinranganath',
-    href: 'https://www.linkedin.com/in/nitinranganath/',
+    link: 'leonardo butschowitz',
+    href: 'https://www.linkedin.com/in/leonardo-butschowitz-97a831346/',
   },
   {
     social: 'twitter',
-    link: 'iamnitinr',
-    href: 'https://www.twitter.com/iamnitinr',
+    link: 'mishiningo',
+    href: 'https://www.twitter.com/mishiningo',
   },
   {
     social: 'instagram',
-    link: 'iamnitinr',
-    href: 'https://www.instagram.com/iamnitinr',
-  },
-  {
-    social: 'polywork',
-    link: 'nitinranganath',
-    href: 'https://www.polywork.com/nitinranganath',
-  },
-  {
-    social: 'telegram',
-    link: 'iamnitinr',
-    href: 'https://t.me/iamnitinr',
+    link: 'mishiningo',
+    href: 'https://www.instagram.com/mishiningo',
   },
   {
     social: 'codepen',
-    link: 'nitinranganath',
-    href: 'https://codepen.io/itsnitinr',
+    link: 'mishiningo',
+    href: 'https://codepen.io/mishiningo',
   },
   {
     social: 'codesandbox',
-    link: 'itsnitinr',
-    href: 'https://codesandbox.io/u/itsnitinr',
+    link: 'mishiningo',
+    href: 'https://codesandbox.io/u/mishiningo',
   },
 ];
 
